@@ -13,7 +13,7 @@ The data used for this data. This folder contains the in-situ measured nitrate a
 ## src
 The scripts used for this data, written in python. 
 
-### Notice
+## Notice
 The comments in each script are in German, since the course itself was conducted in German. If you need an English translation of the script comments, please write a ticket and we will address it as soon as possible. 
 
 ### Copyright
