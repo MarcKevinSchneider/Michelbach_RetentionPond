@@ -15,3 +15,6 @@ The scripts used for this data, written in python.
 
 ### Notice
 The comments in each script are in German, since the course itself was conducted in German. If you need an English translation of the script comments, please write a ticket and we will address it as soon as possible. 
+
+### Copyright
+You are free to download and use the contents of this repository, as long as you credit this repository and the author "Marc Kevin Schneider". 
