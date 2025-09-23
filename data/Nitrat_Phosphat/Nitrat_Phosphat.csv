@@ -1,0 +1,29 @@
+Datum,Uhrzeit,Probe,Nitrat,Phosphor,Temp,LF,PPM,pH,NPOC,Kommentar
+27.05.2025,14:05,AP01,1.11,1.062,13.8,577,289,6.72,5.121,Bewoelkt; 8l Niederschlag innerhalb der letzten 72h; kein Wasser im Zufluss
+27.05.2025,14:05,AP02,1.68,0.879,13.8,577,289,6.72,5.251,Bewoelkt; 8l Niederschlag innerhalb der letzten 72h; kein Wasser im Zufluss
+27.05.2025,NA,SP01,NA,NA,NA,NA,NA,NA,NA,Bewoelkt; 8l Niederschlag innerhalb der letzten 72h; kein Wasser im Zufluss
+27.05.2025,NA,SP02,NA,NA,NA,NA,NA,NA,NA,Bewoelkt; 8l Niederschlag innerhalb der letzten 72h; kein Wasser im Zufluss
+03.06.2025,13:10,AP01,1.16,0.688,14,492,245,5.7,5.371,"In den letzten Tagen einige Regenereignisse; 20-28 Grad; 17,9 l"
+03.06.2025,13:10,AP02,1.13,0.759,14,492,245,5.7,5.15,"In den letzten Tagen einige Regenereignisse; 20-28 Grad; 17,9 l"
+03.06.2025,NA,SP01,NA,NA,NA,NA,NA,NA,NA,"In den letzten Tagen einige Regenereignisse; 20-28 Grad; 17,9 l"
+03.06.2025,NA,SP02,NA,NA,NA,NA,NA,NA,NA,"In den letzten Tagen einige Regenereignisse; 20-28 Grad; 17,9 l"
+10.06.2025,13:27,AP01,1.19,4.399,14.2,490,245,7.25,4.978,Im Abluss ist ein starker Guelle Geruch
+10.06.2025,13:27,AP02,1.28,>5.0,14.2,490,245,7.25,5.527,Im Abluss ist ein starker Guelle Geruch
+10.06.2025,13:52,SP01,1.24,4.426,NA,NA,NA,NA,NA,Im Abluss ist ein starker Guelle Geruch
+10.06.2025,13:52,SP02,1.32,>5.0,NA,NA,NA,NA,NA,Im Abluss ist ein starker Guelle Geruch
+24.06.2025,13:00,AP01,<0.5,<0.5,17,459,230,8.21,5.03,NA
+24.06.2025,13:00,AP02,<0.5,<0.5,17,459,230,8.21,5.187,NA
+24.06.2025,13:30,SP01,<0.5,<0.5,23.2,315,158,9.02,8.031,NA
+24.06.2025,13:30,SP02,<0.5,<0.5,23.2,315,158,9.02,8.135,NA
+01.07.2025,13:20,AP01,1.26,<0.5,18.5,460,230,6.39,5.43,sehr heiss und trocken
+01.07.2025,13:20,AP02,1.33,<0.5,18.5,460,230,6.39,5.43,sehr heiss und trocken
+01.07.2025,12:50,SP01,1.25,<0.5,28.5,325,160,6.16,8.374,sehr heiss und trocken
+01.07.2025,12:50,SP02,1.25,<0.5,28.5,325,160,6.16,8.182,sehr heiss und trocken
+08.07.2025,12:35,AP01,1.2,<0.5,17.2,460,231,7.09,5.568,vereinzelt geregnet; sonst trocken
+08.07.2025,12:35,AP02,1.19,<0.5,17.2,460,231,7.09,5.746,vereinzelt geregnet; sonst trocken
+08.07.2025,12:19,SP01,1.26,<0.5,21.3,281,140,7.76,8.559,vereinzelt geregnet; sonst trocken
+08.07.2025,12:19,SP02,1.23,<0.5,21.3,281,140,7.76,8.626,vereinzelt geregnet; sonst trocken
+15.07.2025,NA,AP01,NA,NA,NA,NA,NA,NA,NA,Sehr eutrophierter See (Gruenalgen)
+15.07.2025,NA,AP02,NA,NA,NA,NA,NA,NA,NA,Sehr eutrophierter See (Gruenalgen)
+15.07.2025,15:18,SP01,1.21,<0.5,25.5,306,152,9.92,NA,Sehr eutrophierter See (Gruenalgen)
+15.07.2025,15:18,SP02,1.17,<0.5,25.5,306,152,9.92,NA,Sehr eutrophierter See (Gruenalgen)
